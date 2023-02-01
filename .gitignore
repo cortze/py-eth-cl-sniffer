@@ -1,0 +1,8 @@
+## ignore py_cache
+__pycache__/
+
+## virtual environment
+venv/
+
+## any existing CSV
+*.csv
